@@ -1,4 +1,11 @@
-RStudio
+Docker compose rstudio server
+================
+
+This repository contains a significantly modified fork of the original [TelethonKids/rstudio](https://github.com/TelethonKids/rstudio) project. 
+
+This project works only in a local lan network
+
+==== Original Readme text ======
 ================
 
 A containerized RStudio instance from the rocker base image:
